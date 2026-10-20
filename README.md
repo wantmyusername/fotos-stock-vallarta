@@ -1,4 +1,4 @@
-# Fotos Vallarta Sock
+# Fotos de Stock Vallarta
 
 Imágenes de stock para contenidos automatizados en WordPress u otros CMS.
 
