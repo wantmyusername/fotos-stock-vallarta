@@ -1,6 +1,6 @@
-# Fotos de Stock Vallarta
+# Fotos de Stock de Puerto Vallarta
 
-Imágenes de stock para contenidos automatizados en WordPress u otros CMS.
+Imágenes de stock de Puerto Vallarta para contenidos automatizados en WordPress u otros CMS.
 
 ## Contenido
 
@@ -29,6 +29,8 @@ Este repositorio funciona como fuente de imágenes para flujos de publicación a
 3. Subirla al CMS como media y asociarla al contenido.
 
 Para evitar repeticiones, registra en tu CMS o en un archivo de estado qué imágenes ya fueron utilizadas.
+
+Puedes usar este repositorio con tu agente de IA, MCP o herramienta de automatización favorita. Se recomienda forkearlo para trabajar con tus propios límites y no depender del repositorio original.
 
 ## Repositorio público
 
