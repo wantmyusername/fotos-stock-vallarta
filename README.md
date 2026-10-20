@@ -14,11 +14,10 @@ Imágenes de stock para contenidos automatizados en WordPress u otros CMS.
 Los archivos usan un prefijo numérico (`01_`, `02_`, … `13_`) que identifica el lote original. El resto del nombre conserva una referencia del lugar o tema de la foto.
 
 ```
-final/
-  01_LL-01.webp
-  01_LL-02.webp
-  ...
-  13_LL-25.webp
+01_LL-01.webp
+01_LL-02.webp
+...
+13_LL-25.webp
 ```
 
 ## Uso
